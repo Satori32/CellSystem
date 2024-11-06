@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CellSystem.cpp" />
     <ClCompile Include="MemoryAllocator.cpp" />
     <ClCompile Include="SurfaceT.cpp" />
     <ClCompile Include="Vector.cpp" />
     <ClCompile Include="ソース.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CellSystem.h" />
     <ClInclude Include="MemoryAllocator.h" />
     <ClInclude Include="SurfaceT.h" />
     <ClInclude Include="Vector.h" />
